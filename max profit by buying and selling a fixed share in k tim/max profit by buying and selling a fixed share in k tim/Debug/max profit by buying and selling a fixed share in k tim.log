@@ -1,0 +1,35 @@
+﻿  Source.cpp
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(17): error C2131: expression did not evaluate to a constant
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(17): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(17): note: see usage of 'k'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(22): error C3863: array type 'int [k+][n+]' is not assignable
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(26): error C3863: array type 'int [k+][n+]' is not assignable
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): error C2672: 'std::max': no matching overloaded function found
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): error C2780: '_Ty std::max(std::initializer_list<_Elem>)': expects 1 arguments - 2 provided
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3617): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): error C2782: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': template parameter '_Ty' is ambiguous
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3609): note: see declaration of 'std::max'
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): note: could be 'int [k+][n+]'
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): note: or       'int'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): error C2784: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': could not deduce template argument for 'const _Ty &' from 'int [k+][n+]'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3609): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): error C2784: '_Ty std::max(std::initializer_list<_Elem>,_Pr)': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3598): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(36): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': expects 3 arguments - 2 provided
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3588): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): error C2672: 'std::max': no matching overloaded function found
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): error C2780: '_Ty std::max(std::initializer_list<_Elem>)': expects 1 arguments - 2 provided
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3617): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): error C2782: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': template parameter '_Ty' is ambiguous
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3609): note: see declaration of 'std::max'
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): note: could be 'int'
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): note: or       'int [k+][n+]'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): error C2784: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': could not deduce template argument for 'const _Ty &' from 'int'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3609): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): error C2784: '_Ty std::max(std::initializer_list<_Elem>,_Pr)': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int [k+][n+]'
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3598): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(38): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': expects 3 arguments - 2 provided
+  d:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3588): note: see declaration of 'std::max'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(39): error C2143: syntax error: missing ';' before '}'
+d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(41): error C2440: 'return': cannot convert from 'int [k+][n+]' to 'int'
+  d:\c++\max profit by buying and selling a fixed share in k tim\max profit by buying and selling a fixed share in k tim\source.cpp(41): note: There is no context in which this conversion is possible
