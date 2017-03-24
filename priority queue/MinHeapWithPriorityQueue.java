@@ -1,9 +1,9 @@
 import java.util.PriorityQueue;
-public class MaxHeapWithPriorityQueue {
+public class MinHeapWithPriorityQueue {
 	public static void main(String[] args)
 	{
 		// create PriorityQueue
-		PriorityQueue<Integer> prq = new PriorityQueue<>((x, y) -> y - x);
+		PriorityQueue<Integer> prq = new PriorityQueue<>();
 
 		//insert values in the queue
 		prq.add(6);
