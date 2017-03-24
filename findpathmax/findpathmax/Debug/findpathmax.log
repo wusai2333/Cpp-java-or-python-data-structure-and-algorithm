@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\c++\findpathmax\findpathmax\source.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  findpathmax.vcxproj -> D:\C++\findpathmax\Debug\findpathmax.exe
+  findpathmax.vcxproj -> D:\C++\findpathmax\Debug\findpathmax.pdb (Partial PDB)

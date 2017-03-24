@@ -1,0 +1,28 @@
+﻿  Source.cpp
+d:\c++\black red tree\black red tree\rbtree.h(228): error C2244: 'RBTree<T>::minimum': unable to match function definition to an existing declaration
+  d:\c++\black red tree\black red tree\rbtree.h(220): note: see declaration of 'RBTree<T>::minimum'
+  d:\c++\black red tree\black red tree\rbtree.h(228): note: definition
+  d:\c++\black red tree\black red tree\rbtree.h(228): note: 'RBTNode<T> *RBTree<T>::minimum(RBTree<T> *)'
+  d:\c++\black red tree\black red tree\rbtree.h(228): note: existing declarations
+  d:\c++\black red tree\black red tree\rbtree.h(228): note: 'RBTNode<T> *RBTree<T>::minimum(RBTNode<T> *)'
+  d:\c++\black red tree\black red tree\rbtree.h(228): note: 'T RBTree<T>::minimum(void)'
+d:\c++\black red tree\black red tree\rbtree.h(416): error C2244: 'RBTree<T>::insert': unable to match function definition to an existing declaration
+  d:\c++\black red tree\black red tree\rbtree.h(389): note: see declaration of 'RBTree<T>::insert'
+  d:\c++\black red tree\black red tree\rbtree.h(416): note: definition
+  d:\c++\black red tree\black red tree\rbtree.h(416): note: 'void RBTree<T>::insert(RBTNode<T> *&,RBTNode<T>)'
+  d:\c++\black red tree\black red tree\rbtree.h(416): note: existing declarations
+  d:\c++\black red tree\black red tree\rbtree.h(416): note: 'void RBTree<T>::insert(RBTNode<T> *&,RBTNode<T> *)'
+  d:\c++\black red tree\black red tree\rbtree.h(416): note: 'void RBTree<T>::insert(T)'
+d:\c++\black red tree\black red tree\rbtree.h(698): error C2244: 'RBTree<T>::removeFixUp': unable to match function definition to an existing declaration
+  d:\c++\black red tree\black red tree\rbtree.h(624): note: see declaration of 'RBTree<T>::removeFixUp'
+  d:\c++\black red tree\black red tree\rbtree.h(698): note: definition
+  d:\c++\black red tree\black red tree\rbtree.h(698): note: 'void RBTree<T>::removeFixUp(RBTree<T> *&,RBTree<T> *,RBTree<T> *)'
+  d:\c++\black red tree\black red tree\rbtree.h(698): note: existing declarations
+  d:\c++\black red tree\black red tree\rbtree.h(698): note: 'void RBTree<T>::removeFixUp(RBTNode<T> *&,RBTNode<T> *,RBTNode<T> *)'
+d:\c++\black red tree\black red tree\rbtree.h(743): error C2244: 'RBTree<T>::print': unable to match function definition to an existing declaration
+  d:\c++\black red tree\black red tree\rbtree.h(731): note: see declaration of 'RBTree<T>::print'
+  d:\c++\black red tree\black red tree\rbtree.h(743): note: definition
+  d:\c++\black red tree\black red tree\rbtree.h(743): note: 'void RBTree<T>::print(RBTNode<T> *,T,int)'
+  d:\c++\black red tree\black red tree\rbtree.h(743): note: existing declarations
+  d:\c++\black red tree\black red tree\rbtree.h(743): note: 'void RBTree<T>::print(RBTNode<T> *&,T,int)'
+  d:\c++\black red tree\black red tree\rbtree.h(743): note: 'void RBTree<T>::print(void)'
