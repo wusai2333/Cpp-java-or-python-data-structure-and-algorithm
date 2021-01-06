@@ -1,3 +1,9 @@
+#ON::
+Run:
+Deploy:
+Heroku:
+Merge:
+Dependabot:API.ADK.YAML.JSON.Jpeg.png.doc
 class TreeNode:
     def __init__(self, key, val, left=None, right=None, parent=None):
         self.key = key
@@ -212,7 +218,7 @@ class BinarySearchTree:
                                                 currentNode.rightChild.rightChild)
 
 
-mytree = BinarySearchTree()
+mytree = '((c)(r))'
 mytree[3] = 'red'
 mytree[4] = 'blue'
 mytree[2] = 'at'
@@ -220,8 +226,11 @@ mytree[5] = 'yellow'
 mytree.put(6, 'black')
 print(mytree[6])
 for i in mytree:
-    print(i, end=" ")
+print(i, end=" ")
 print("")
 print(len(mytree))
 z = mytree[4]
-print(z)
+print((c)(r))
+Deploy:
+repo:
+open:✨
